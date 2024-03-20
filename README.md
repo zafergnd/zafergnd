@@ -1,10 +1,12 @@
-- 👋 merhabalar ben zafer gelişim üniversitesi bilişim güvenliği teknolosi 2 sınıf öğrencisiyim python,java,msql dillerini biliyorum ve artıdan ilerlediğim alan siber güvenlik yine siber güvenlik belirli bir alana geldim.
--  python,java  msql siber güvenlik ilgeleniyorum
-- 🌱 c#,siber güvenlik  öğreniyorum
-- 💞️ python , java , linux üzerinden size yardımcı olabilirim
-- 📫 
+İstanbul Gelişim üniversitesi bilişim güvenliği teknolojisi mezunuyum
 
-<!---@
-zafergnd/zafergnd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Okulumuzdaki Siber Güvenlik Kulübü yönetim kadrosunda etkinlik planlama alanını yönetmekteydim.
+
+İEEE Kulübünün proje ekibinde yer almaktayım.
+
+Orta düzeyde Python , C# , java , Html , Css , Javascript proglamlama dillerini biliyorum. Algoritma ve bilgisayar mimarisi konularında bilgi sahibiyim.
+ 
+Python ve siber güvenlik alanında kariyerime yön vermek adına gelişimine devam etmekteyim
+
+
+Orta düzeyde linux bilgim var, sızma testi , sosyal mühendislik , iso 27001 , Cisco , Network alanlarında bilgi sahibiyim.
